@@ -23,7 +23,7 @@ Feb 17th, 2026
 
 ## Recording
 
-Recording posted to YouTube: TBD
+Recording posted to YouTube: https://www.youtube.com/watch?v=qteUHMI1nXI
 
 ## Files
 ### Altium Design File Reference.zip
