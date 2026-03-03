@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB-C_Power_Supply_PCB.PcbDoc   3/1/2026  9:04:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : USB-C_Power_Supply_PCB-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : USB-C_Power_Supply_PCB-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : USB-C_Power_Supply_PCB-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             639       PTH        54.02inch (1372.06mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.42inch (36.11mm)
+T3      30mil (0.75mm)                                            Round             8         PTH        2.20inch (55.90mm)
+T4      32mil (0.8mm)                                             Round             12        PTH        1.71inch (43.48mm)
+T5      45mil (1.15mm)                                            Round             32        PTH        4.69inch (119.15mm)
+T6      47mil (1.2mm)                                             Round             12        PTH        4.15inch (105.48mm)
+T7      53mil (1.35mm)                                            Round             10        PTH        2.22inch (56.28mm)
+T8      65mil (1.65mm)                                            Round             6         PTH        1.00inch (25.31mm)
+T9      102mil (2.6mm)                                            Round             4         PTH        3.54inch (90.00mm)
+T10     124mil (3.16mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T11     143mil (3.64mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T12     134mil (3.4mm)                                            Round             4         NPTH       5.15inch (130.70mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              733
+
+Total Processing Time (hh:mm:ss) : 00:00:00
